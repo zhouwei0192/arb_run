@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T23:45:22.917393983Z","level":"INFO","fields":{"message":"on_load success"},"target":"evm_arbitrage_bot"}
+{"timestamp":"2026-10-20T23:45:22.917755154Z","level":"INFO","fields":{"message":"start http"},"target":"evm_arbitrage_bot::route::http"}
+{"timestamp":"2026-10-20T23:47:24.619919107Z","level":"INFO","fields":{"message":"start success"},"target":"evm_arbitrage_bot::start"}
+{"timestamp":"2026-10-20T23:47:24.619942119Z","level":"INFO","fields":{"message":"start"},"target":"evm_arbitrage_bot::route::http"}
